@@ -1,6 +1,6 @@
 # Cinema Room Manager 🎬
 
-A Java console application that helps manage a cinema theatre with ticket sales, seating visualization, and sales statistics.
+Another Hyperskill project is this Java console application that helps manage a cinema theatre with ticket sales, seating visualization, and sales statistics.
 
 ## Features  
 🎫 Ticket Management  
